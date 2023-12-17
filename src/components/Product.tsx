@@ -34,7 +34,7 @@ const Product = () => {
           </div>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
-              className="max-h-96"
+              className="max-h-128"
               src={firstItem?.img}
               alt={firstItem?.title}
             />
@@ -43,7 +43,7 @@ const Product = () => {
         <div className={`flex flex-wrap flex-col-reverse sm:flex-row`}>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
-              className="max-h-96"
+              className="max-h-128"
               src={secondItem?.img}
               alt={secondItem?.title}
             />
@@ -70,7 +70,7 @@ const Product = () => {
           </div>
           <div className={`w-full sm:w-1/2 p-6`}>
             <img
-              className="max-h-96"
+              className="max-h-128"
               src={thirdItem?.img}
               alt={thirdItem?.title}
             />
