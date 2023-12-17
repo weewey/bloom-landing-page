@@ -1,38 +1,20 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "Bloom",
+    "logo": "/assets/images/bloom.svg"
   },
-  "navigation": [
-    {
-      "name": "Product",
-      "href": "product"
-    },
-    {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
-      "name": "About",
-      "href": "about"
-    }
-  ],
+  "navigation": [],
   "callToAction": {
     "text": "Get started",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "AI-Powered Budgeting for",
+    "subtitle": "Smarter Finance Management.",
+    "description": "AI-driven app with personalized budgeting, smart expense analysis, insightful savings tips, goal progress tracking, automated alerts, and secure financial management for smarter decision-making.",
+    "img": "/assets/images/home-and-spending.svg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Join Us Pre-Launch: Stay Updated!",
       "href": "#"
     },
     "secondaryAction": {
@@ -41,17 +23,22 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Explore Core Features",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Complete Financial Picture",
+        "description": "Effortlessly integrate bank, credit card, investment, and loan accounts for a unified and detailed view of your entire financial portfolio.",
+        "img": "/assets/images/home.svg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Budget Smarter, Spend Wiser",
+        "description": "Analyzes your historical expenses and aligns with your financial goals to intelligently recommend personalized budget plans, guiding you towards financial success.",
+        "img": "/assets/images/spending.svg"
+      },
+      {
+        "title": "AI-Powered Financial Assistant",
+        "description": "Ask our intuitive chatbot any finance-related questions or delve into your spending history, receiving instant, insightful responses tailored to your financial journey.",
+        "img": "/assets/images/chat.svg"
       }
     ]
   },
@@ -122,28 +109,7 @@
     ]
   },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
+    "sections": [],
     "socialMedia": {
       "github": "https://github.com/issaafalkattan",
       "twitter": "https://twitter.com/issaafkattan",
