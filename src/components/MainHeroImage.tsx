@@ -9,7 +9,7 @@ const MainHeroImage = () => {
       <img
         className="object-contain w-full h-full"
         src={mainHero.img}
-        alt="happy team image"
+        alt="product image"
       />
     </div>
   );

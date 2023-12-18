@@ -3,7 +3,12 @@
     "name": "Bloom",
     "logo": "/assets/images/bloom.svg"
   },
-  "navigation": [],
+  "navigation": [
+    {
+      "name": "survey",
+      "href": "/survey"
+    }
+  ],
   "callToAction": {
     "text": "Get started",
     "href": "#"

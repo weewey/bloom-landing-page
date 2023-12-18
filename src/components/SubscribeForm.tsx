@@ -22,7 +22,7 @@ const SubscribeForm = () => {
         type="submit"
         name="subscribe"
         id="mc-embedded-subscribe"
-        className="rounded-md shadow text-background bg-primary hover:bg-border hover:text-primary mt-4 px-6 py-2 text-base rounded-md hover:bg-border hover:text-primary focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
+        className="rounded-md shadow text-background bg-primary hover:bg-border hover:text-secondary mt-4 px-6 py-2 text-base  focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
       >
         Join Us Pre-launch: Stay updated!
       </button>

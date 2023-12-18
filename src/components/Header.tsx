@@ -56,13 +56,7 @@ const Menu = () => {
                     <XIcon className="h-6 w-6" aria-hidden="true" />
                   </Popover.Button>
                 </div>
-              </div>
-              <a
-                href={callToAction.href}
-                className={`block w-full px-5 py-3 text-center font-medium text-primary bg-gray-50 hover:bg-gray-100`}
-              >
-                {callToAction.text}
-              </a>
+              </div>{' '}
             </div>
           </Popover.Panel>
         </Transition>
