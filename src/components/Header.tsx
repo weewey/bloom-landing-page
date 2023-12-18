@@ -6,7 +6,7 @@ import { XIcon } from '@heroicons/react/outline';
 import config from '../config/index.json';
 
 const Menu = () => {
-  const { company, callToAction } = config;
+  const { company } = config;
   const { name: companyName, logo } = company;
 
   return (
