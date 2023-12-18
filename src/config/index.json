@@ -12,7 +12,7 @@
     "title": "AI-Powered Budgeting for",
     "subtitle": "Smarter Finance Management.",
     "description": "AI-driven app with personalized budgeting, smart expense analysis, insightful savings tips, goal progress tracking, automated alerts, and secure financial management for smarter decision-making.",
-    "img": "/assets/images/home-and-spending.svg",
+    "img": "/assets/images/combination.png",
     "primaryAction": {
       "text": "Join Us Pre-Launch: Stay Updated!",
       "href": "#"
@@ -28,17 +28,17 @@
       {
         "title": "Complete Financial Picture",
         "description": "Effortlessly integrate bank, credit card, investment, and loan accounts for a unified and detailed view of your entire financial portfolio.",
-        "img": "/assets/images/home.svg"
+        "img": "/assets/images/home.png"
       },
       {
         "title": "Budget Smarter, Spend Wiser",
         "description": "Analyzes your historical expenses and aligns with your financial goals to intelligently recommend personalized budget plans, guiding you towards financial success.",
-        "img": "/assets/images/spending.svg"
+        "img": "/assets/images/spending.png"
       },
       {
         "title": "AI-Powered Financial Assistant",
         "description": "Ask our intuitive chatbot any finance-related questions or delve into your spending history, receiving instant, insightful responses tailored to your financial journey.",
-        "img": "/assets/images/chat.svg"
+        "img": "/assets/images/chat.png"
       }
     ]
   },
