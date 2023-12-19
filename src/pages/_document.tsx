@@ -8,7 +8,17 @@ class MyDocument extends Document {
     return (
       <Html lang={AppConfig.locale}>
         <Head>
-          <title>Bloom AI</title>
+          <title>
+            Bloom – Smart AI Budgeting App for Effortless Finance Management
+          </title>
+          <meta
+            name="description"
+            content="Discover Bloom, the AI-powered budgeting app designed to simplify your finances. Effortlessly track expenses, set budgets, and gain personalized insights. Sign up today for smarter financial management!"
+          />
+          <meta
+            name="keywords"
+            content="budgeting app, AI finance management, expense tracking, personal budget, financial planning, savings goals, Bloom app, AI budgeting, money management, financial insights"
+          />
         </Head>
         <body>
           <Main />
